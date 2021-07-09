@@ -1,0 +1,313 @@
+aff-wild2_conv5_resnet18 epoch: 1   cross_loss 0.771, kl_loss: 53904.906 , Train_acc: 0.841
+best_Val_acc: 0.936
+av_total_epistemic: 0.201
+aff-wild2_conv5_resnet18 epoch: 2   cross_loss 0.569, kl_loss: 53662.402 , Train_acc: 0.918
+best_Val_acc: 0.946
+av_total_epistemic: 0.167
+aff-wild2_conv5_resnet18 epoch: 3   cross_loss 0.368, kl_loss: 53595.137 , Train_acc: 0.937
+best_Val_acc: 0.955
+av_total_epistemic: 0.118
+aff-wild2_conv5_resnet18 epoch: 4   cross_loss 0.186, kl_loss: 53534.402 , Train_acc: 0.947
+best_Val_acc: 0.964
+av_total_epistemic: 0.105
+aff-wild2_conv5_resnet18 epoch: 5   cross_loss 0.152, kl_loss: 53487.000 , Train_acc: 0.953
+best_Val_acc: 0.972
+av_total_epistemic: 0.085
+aff-wild2_conv5_resnet18 epoch: 6   cross_loss 0.266, kl_loss: 53463.223 , Train_acc: 0.957
+best_Val_acc: 0.973
+av_total_epistemic: 0.081
+aff-wild2_conv5_resnet18 epoch: 7   cross_loss 0.177, kl_loss: 53442.750 , Train_acc: 0.960
+best_Val_acc: 0.974
+av_total_epistemic: 0.080
+aff-wild2_conv5_resnet18 epoch: 8   cross_loss 0.138, kl_loss: 53426.816 , Train_acc: 0.963
+best_Val_acc: 0.979
+av_total_epistemic: 0.073
+aff-wild2_conv5_resnet18 epoch: 9   cross_loss 0.103, kl_loss: 53432.027 , Train_acc: 0.965
+aff-wild2_conv5_resnet18 epoch: 10   cross_loss 0.115, kl_loss: 53405.656 , Train_acc: 0.967
+best_Val_acc: 0.981
+av_total_epistemic: 0.063
+aff-wild2_conv5_resnet18 epoch: 11   cross_loss 0.093, kl_loss: 53399.918 , Train_acc: 0.968
+aff-wild2_conv5_resnet18 epoch: 12   cross_loss 0.414, kl_loss: 53403.625 , Train_acc: 0.970
+best_Val_acc: 0.982
+av_total_epistemic: 0.063
+aff-wild2_conv5_resnet18 epoch: 13   cross_loss 0.091, kl_loss: 53390.004 , Train_acc: 0.971
+best_Val_acc: 0.984
+av_total_epistemic: 0.058
+aff-wild2_conv5_resnet18 epoch: 14   cross_loss 0.137, kl_loss: 53375.246 , Train_acc: 0.971
+aff-wild2_conv5_resnet18 epoch: 15   cross_loss 0.134, kl_loss: 53376.148 , Train_acc: 0.973
+aff-wild2_conv5_resnet18 epoch: 16   cross_loss 0.087, kl_loss: 53369.523 , Train_acc: 0.973
+best_Val_acc: 0.985
+av_total_epistemic: 0.052
+aff-wild2_conv5_resnet18 epoch: 17   cross_loss 0.135, kl_loss: 53377.703 , Train_acc: 0.974
+aff-wild2_conv5_resnet18 epoch: 18   cross_loss 0.101, kl_loss: 53352.727 , Train_acc: 0.974
+aff-wild2_conv5_resnet18 epoch: 19   cross_loss 0.040, kl_loss: 53356.730 , Train_acc: 0.975
+aff-wild2_conv5_resnet18 epoch: 20   cross_loss 0.111, kl_loss: 53349.309 , Train_acc: 0.975
+best_Val_acc: 0.986
+av_total_epistemic: 0.049
+aff-wild2_conv5_resnet18 epoch: 21   cross_loss 0.042, kl_loss: 53346.266 , Train_acc: 0.976
+aff-wild2_conv5_resnet18 epoch: 22   cross_loss 0.140, kl_loss: 53359.219 , Train_acc: 0.976
+aff-wild2_conv5_resnet18 epoch: 23   cross_loss 0.092, kl_loss: 53342.543 , Train_acc: 0.976
+aff-wild2_conv5_resnet18 epoch: 24   cross_loss 0.081, kl_loss: 53341.402 , Train_acc: 0.977
+aff-wild2_conv5_resnet18 epoch: 25   cross_loss 0.083, kl_loss: 53331.695 , Train_acc: 0.977
+best_Val_acc: 0.987
+av_total_epistemic: 0.045
+aff-wild2_conv5_resnet18 epoch: 26   cross_loss 0.045, kl_loss: 53343.457 , Train_acc: 0.978
+aff-wild2_conv5_resnet18 epoch: 27   cross_loss 0.311, kl_loss: 53339.453 , Train_acc: 0.978
+best_Val_acc: 0.987
+av_total_epistemic: 0.039
+aff-wild2_conv5_resnet18 epoch: 28   cross_loss 0.176, kl_loss: 53341.328 , Train_acc: 0.978
+aff-wild2_conv5_resnet18 epoch: 29   cross_loss 0.122, kl_loss: 53340.730 , Train_acc: 0.978
+aff-wild2_conv5_resnet18 epoch: 30   cross_loss 0.120, kl_loss: 53342.387 , Train_acc: 0.979
+best_Val_acc: 0.988
+av_total_epistemic: 0.043
+aff-wild2_conv5_resnet18 epoch: 31   cross_loss 0.113, kl_loss: 53333.180 , Train_acc: 0.979
+aff-wild2_conv5_resnet18 epoch: 32   cross_loss 0.127, kl_loss: 53318.449 , Train_acc: 0.979
+aff-wild2_conv5_resnet18 epoch: 33   cross_loss 0.099, kl_loss: 53326.328 , Train_acc: 0.979
+best_Val_acc: 0.988
+av_total_epistemic: 0.039
+aff-wild2_conv5_resnet18 epoch: 34   cross_loss 0.161, kl_loss: 53329.781 , Train_acc: 0.979
+aff-wild2_conv5_resnet18 epoch: 35   cross_loss 0.206, kl_loss: 53331.754 , Train_acc: 0.979
+aff-wild2_conv5_resnet18 epoch: 36   cross_loss 0.035, kl_loss: 53329.918 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 37   cross_loss 0.132, kl_loss: 53329.781 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 38   cross_loss 0.130, kl_loss: 53330.465 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 39   cross_loss 0.138, kl_loss: 53318.520 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 40   cross_loss 0.107, kl_loss: 53319.547 , Train_acc: 0.980
+best_Val_acc: 0.990
+av_total_epistemic: 0.037
+aff-wild2_conv5_resnet18 epoch: 41   cross_loss 0.221, kl_loss: 53316.750 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 42   cross_loss 0.054, kl_loss: 53330.852 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 43   cross_loss 0.173, kl_loss: 53312.340 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 44   cross_loss 0.201, kl_loss: 53317.680 , Train_acc: 0.980
+aff-wild2_conv5_resnet18 epoch: 45   cross_loss 0.107, kl_loss: 53301.871 , Train_acc: 0.981
+best_Val_acc: 0.991
+av_total_epistemic: 0.033
+aff-wild2_conv5_resnet18 epoch: 46   cross_loss 0.103, kl_loss: 53296.703 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 47   cross_loss 0.179, kl_loss: 53319.660 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 48   cross_loss 0.097, kl_loss: 53306.398 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 49   cross_loss 0.090, kl_loss: 53319.402 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 50   cross_loss 0.057, kl_loss: 53321.836 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 51   cross_loss 0.038, kl_loss: 53309.785 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 52   cross_loss 0.158, kl_loss: 53318.555 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 53   cross_loss 0.101, kl_loss: 53313.891 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 54   cross_loss 0.112, kl_loss: 53307.949 , Train_acc: 0.981
+aff-wild2_conv5_resnet18 epoch: 55   cross_loss 0.032, kl_loss: 53320.215 , Train_acc: 0.981
+best_Val_acc: 0.991
+av_total_epistemic: 0.035
+aff-wild2_conv5_resnet18 epoch: 56   cross_loss 0.059, kl_loss: 53318.371 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 57   cross_loss 0.143, kl_loss: 53306.422 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 58   cross_loss 0.071, kl_loss: 53309.812 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 59   cross_loss 0.113, kl_loss: 53312.492 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 60   cross_loss 0.033, kl_loss: 53305.152 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 61   cross_loss 0.008, kl_loss: 53306.551 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 62   cross_loss 0.158, kl_loss: 53308.859 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 63   cross_loss 0.125, kl_loss: 53294.145 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 64   cross_loss 0.092, kl_loss: 53303.359 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 65   cross_loss 0.050, kl_loss: 53306.078 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 66   cross_loss 0.109, kl_loss: 53293.324 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 67   cross_loss 0.304, kl_loss: 53312.238 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 68   cross_loss 0.145, kl_loss: 53311.516 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 69   cross_loss 0.033, kl_loss: 53322.906 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 70   cross_loss 0.111, kl_loss: 53297.883 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 71   cross_loss 0.167, kl_loss: 53306.953 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 72   cross_loss 0.067, kl_loss: 53304.547 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 73   cross_loss 0.151, kl_loss: 53319.801 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 74   cross_loss 0.105, kl_loss: 53316.945 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 75   cross_loss 0.060, kl_loss: 53308.098 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 76   cross_loss 0.072, kl_loss: 53298.512 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 77   cross_loss 0.030, kl_loss: 53304.379 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 78   cross_loss 0.153, kl_loss: 53302.438 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 79   cross_loss 0.067, kl_loss: 53292.004 , Train_acc: 0.983
+best_Val_acc: 0.992
+av_total_epistemic: 0.029
+aff-wild2_conv5_resnet18 epoch: 80   cross_loss 0.127, kl_loss: 53305.035 , Train_acc: 0.982
+aff-wild2_conv5_resnet18 epoch: 81   cross_loss 0.126, kl_loss: 53292.387 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 82   cross_loss 0.104, kl_loss: 53301.293 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 83   cross_loss 0.068, kl_loss: 53309.457 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 84   cross_loss 0.116, kl_loss: 53300.949 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 85   cross_loss 0.045, kl_loss: 53288.809 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 86   cross_loss 0.091, kl_loss: 53324.500 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 87   cross_loss 0.134, kl_loss: 53294.668 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 88   cross_loss 0.060, kl_loss: 53294.770 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 89   cross_loss 0.073, kl_loss: 53291.145 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 90   cross_loss 0.030, kl_loss: 53305.281 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 91   cross_loss 0.090, kl_loss: 53303.160 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 92   cross_loss 0.147, kl_loss: 53301.043 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 93   cross_loss 0.087, kl_loss: 53302.387 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 94   cross_loss 0.077, kl_loss: 53319.605 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 95   cross_loss 0.042, kl_loss: 53302.922 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 96   cross_loss 0.064, kl_loss: 53306.000 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 97   cross_loss 0.014, kl_loss: 53290.770 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 98   cross_loss 0.067, kl_loss: 53302.914 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 99   cross_loss 0.063, kl_loss: 53300.613 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 100   cross_loss 0.079, kl_loss: 53305.258 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 101   cross_loss 0.146, kl_loss: 53304.418 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 102   cross_loss 0.181, kl_loss: 53304.305 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 103   cross_loss 0.069, kl_loss: 53298.695 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 104   cross_loss 0.055, kl_loss: 53295.090 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 105   cross_loss 0.050, kl_loss: 53298.555 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 106   cross_loss 0.251, kl_loss: 53292.203 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 107   cross_loss 0.017, kl_loss: 53296.719 , Train_acc: 0.983
+best_Val_acc: 0.992
+av_total_epistemic: 0.026
+aff-wild2_conv5_resnet18 epoch: 108   cross_loss 0.196, kl_loss: 53297.688 , Train_acc: 0.983
+aff-wild2_conv5_resnet18 epoch: 109   cross_loss 0.056, kl_loss: 53290.387 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 110   cross_loss 0.013, kl_loss: 53286.465 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 111   cross_loss 0.026, kl_loss: 53303.465 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 112   cross_loss 0.066, kl_loss: 53302.309 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 113   cross_loss 0.251, kl_loss: 53310.543 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 114   cross_loss 0.259, kl_loss: 53278.070 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 115   cross_loss 0.132, kl_loss: 53297.012 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 116   cross_loss 0.078, kl_loss: 53300.254 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 117   cross_loss 0.036, kl_loss: 53298.012 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 118   cross_loss 0.225, kl_loss: 53293.453 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 119   cross_loss 0.039, kl_loss: 53304.965 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 120   cross_loss 0.086, kl_loss: 53296.219 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 121   cross_loss 0.081, kl_loss: 53287.035 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 122   cross_loss 0.127, kl_loss: 53294.004 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 123   cross_loss 0.227, kl_loss: 53290.992 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 124   cross_loss 0.012, kl_loss: 53287.965 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 125   cross_loss 0.020, kl_loss: 53287.676 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 126   cross_loss 0.021, kl_loss: 53284.398 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 127   cross_loss 0.031, kl_loss: 53295.965 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 128   cross_loss 0.162, kl_loss: 53288.754 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 129   cross_loss 0.250, kl_loss: 53294.348 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 130   cross_loss 0.155, kl_loss: 53281.250 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 131   cross_loss 0.024, kl_loss: 53291.988 , Train_acc: 0.984
+best_Val_acc: 0.992
+av_total_epistemic: 0.029
+aff-wild2_conv5_resnet18 epoch: 132   cross_loss 0.044, kl_loss: 53279.051 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 133   cross_loss 0.105, kl_loss: 53288.605 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 134   cross_loss 0.085, kl_loss: 53298.676 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 135   cross_loss 0.235, kl_loss: 53290.301 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 136   cross_loss 0.062, kl_loss: 53283.199 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 137   cross_loss 0.025, kl_loss: 53286.691 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 138   cross_loss 0.087, kl_loss: 53304.629 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 139   cross_loss 0.158, kl_loss: 53294.812 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 140   cross_loss 0.124, kl_loss: 53283.895 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 141   cross_loss 0.053, kl_loss: 53288.461 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 142   cross_loss 0.253, kl_loss: 53290.949 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 143   cross_loss 0.281, kl_loss: 53298.750 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 144   cross_loss 0.056, kl_loss: 53301.414 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 145   cross_loss 0.088, kl_loss: 53291.844 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 146   cross_loss 0.044, kl_loss: 53287.949 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 147   cross_loss 0.051, kl_loss: 53295.992 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 148   cross_loss 0.088, kl_loss: 53284.719 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 149   cross_loss 0.090, kl_loss: 53285.086 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 150   cross_loss 0.015, kl_loss: 53287.566 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 151   cross_loss 0.141, kl_loss: 53303.496 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 152   cross_loss 0.072, kl_loss: 53282.555 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 153   cross_loss 0.072, kl_loss: 53284.355 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 154   cross_loss 0.037, kl_loss: 53288.227 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 155   cross_loss 0.330, kl_loss: 53295.262 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 156   cross_loss 0.115, kl_loss: 53286.965 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 157   cross_loss 0.019, kl_loss: 53285.789 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 158   cross_loss 0.097, kl_loss: 53286.188 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 159   cross_loss 0.094, kl_loss: 53289.766 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 160   cross_loss 0.074, kl_loss: 53281.637 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 161   cross_loss 0.033, kl_loss: 53290.445 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 162   cross_loss 0.021, kl_loss: 53293.695 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 163   cross_loss 0.105, kl_loss: 53293.426 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 164   cross_loss 0.123, kl_loss: 53282.305 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 165   cross_loss 0.087, kl_loss: 53282.785 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 166   cross_loss 0.015, kl_loss: 53288.480 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 167   cross_loss 0.019, kl_loss: 53287.902 , Train_acc: 0.984
+best_Val_acc: 0.992
+av_total_epistemic: 0.027
+aff-wild2_conv5_resnet18 epoch: 168   cross_loss 0.020, kl_loss: 53298.418 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 169   cross_loss 0.135, kl_loss: 53284.832 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 170   cross_loss 0.032, kl_loss: 53286.512 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 171   cross_loss 0.088, kl_loss: 53267.789 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 172   cross_loss 0.051, kl_loss: 53292.520 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 173   cross_loss 0.072, kl_loss: 53289.199 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 174   cross_loss 0.024, kl_loss: 53292.785 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 175   cross_loss 0.043, kl_loss: 53282.324 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 176   cross_loss 0.093, kl_loss: 53293.801 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 177   cross_loss 0.030, kl_loss: 53280.352 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 178   cross_loss 0.019, kl_loss: 53295.648 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 179   cross_loss 0.084, kl_loss: 53290.520 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 180   cross_loss 0.094, kl_loss: 53288.371 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 181   cross_loss 0.037, kl_loss: 53270.008 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 182   cross_loss 0.144, kl_loss: 53306.020 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 183   cross_loss 0.072, kl_loss: 53282.992 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 184   cross_loss 0.224, kl_loss: 53288.555 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 185   cross_loss 0.059, kl_loss: 53285.574 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 186   cross_loss 0.025, kl_loss: 53283.059 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 187   cross_loss 0.028, kl_loss: 53293.883 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 188   cross_loss 0.065, kl_loss: 53284.688 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 189   cross_loss 0.078, kl_loss: 53300.301 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 190   cross_loss 0.107, kl_loss: 53283.156 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 191   cross_loss 0.036, kl_loss: 53294.094 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 192   cross_loss 0.024, kl_loss: 53291.988 , Train_acc: 0.984
+aff-wild2_conv5_resnet18 epoch: 193   cross_loss 0.087, kl_loss: 53277.480 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 194   cross_loss 0.018, kl_loss: 53273.879 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 195   cross_loss 0.007, kl_loss: 53291.922 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 196   cross_loss 0.115, kl_loss: 53290.000 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 197   cross_loss 0.093, kl_loss: 53302.090 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 198   cross_loss 0.141, kl_loss: 53275.793 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 199   cross_loss 0.031, kl_loss: 53286.324 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 200   cross_loss 0.034, kl_loss: 53290.535 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 201   cross_loss 0.116, kl_loss: 53276.203 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 202   cross_loss 0.067, kl_loss: 53299.133 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 203   cross_loss 0.060, kl_loss: 53288.449 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 204   cross_loss 0.009, kl_loss: 53271.152 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 205   cross_loss 0.154, kl_loss: 53290.945 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 206   cross_loss 0.028, kl_loss: 53281.211 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 207   cross_loss 0.080, kl_loss: 53294.758 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 208   cross_loss 0.161, kl_loss: 53271.844 , Train_acc: 0.985
+best_Val_acc: 0.992
+av_total_epistemic: 0.029
+aff-wild2_conv5_resnet18 epoch: 209   cross_loss 0.110, kl_loss: 53284.285 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 210   cross_loss 0.195, kl_loss: 53292.230 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 211   cross_loss 0.054, kl_loss: 53277.625 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 212   cross_loss 0.111, kl_loss: 53288.965 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 213   cross_loss 0.065, kl_loss: 53287.488 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 214   cross_loss 0.037, kl_loss: 53286.465 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 215   cross_loss 0.114, kl_loss: 53285.199 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 216   cross_loss 0.180, kl_loss: 53281.133 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 217   cross_loss 0.055, kl_loss: 53294.363 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 218   cross_loss 0.036, kl_loss: 53289.664 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 219   cross_loss 0.292, kl_loss: 53280.969 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 220   cross_loss 0.036, kl_loss: 53297.473 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 221   cross_loss 0.020, kl_loss: 53293.168 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 222   cross_loss 0.035, kl_loss: 53285.629 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 223   cross_loss 0.114, kl_loss: 53289.918 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 224   cross_loss 0.017, kl_loss: 53282.324 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 225   cross_loss 0.027, kl_loss: 53277.102 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 226   cross_loss 0.063, kl_loss: 53289.051 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 227   cross_loss 0.039, kl_loss: 53282.164 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 228   cross_loss 0.019, kl_loss: 53295.422 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 229   cross_loss 0.128, kl_loss: 53279.195 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 230   cross_loss 0.061, kl_loss: 53290.578 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 231   cross_loss 0.056, kl_loss: 53284.672 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 232   cross_loss 0.074, kl_loss: 53287.559 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 233   cross_loss 0.280, kl_loss: 53286.613 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 234   cross_loss 0.106, kl_loss: 53276.523 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 235   cross_loss 0.076, kl_loss: 53288.359 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 236   cross_loss 0.046, kl_loss: 53286.820 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 237   cross_loss 0.366, kl_loss: 53277.844 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 238   cross_loss 0.092, kl_loss: 53289.020 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 239   cross_loss 0.150, kl_loss: 53284.852 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 240   cross_loss 0.095, kl_loss: 53272.742 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 241   cross_loss 0.112, kl_loss: 53281.848 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 242   cross_loss 0.127, kl_loss: 53277.418 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 243   cross_loss 0.021, kl_loss: 53282.098 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 244   cross_loss 0.115, kl_loss: 53298.031 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 245   cross_loss 0.047, kl_loss: 53301.324 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 246   cross_loss 0.020, kl_loss: 53291.473 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 247   cross_loss 0.130, kl_loss: 53284.078 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 248   cross_loss 0.039, kl_loss: 53282.980 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 249   cross_loss 0.123, kl_loss: 53280.668 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 250   cross_loss 0.138, kl_loss: 53285.410 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 251   cross_loss 0.029, kl_loss: 53292.500 , Train_acc: 0.985
+best_Val_acc: 0.993
+av_total_epistemic: 0.029
+aff-wild2_conv5_resnet18 epoch: 252   cross_loss 0.015, kl_loss: 53275.973 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 253   cross_loss 0.090, kl_loss: 53277.848 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 254   cross_loss 0.130, kl_loss: 53289.293 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 255   cross_loss 0.297, kl_loss: 53273.934 , Train_acc: 0.985
+best_Val_acc: 0.993
+av_total_epistemic: 0.025
+aff-wild2_conv5_resnet18 epoch: 256   cross_loss 0.043, kl_loss: 53289.453 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 257   cross_loss 0.060, kl_loss: 53284.422 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 258   cross_loss 0.111, kl_loss: 53287.641 , Train_acc: 0.985
+aff-wild2_conv5_resnet18 epoch: 259   cross_loss 0.125, kl_loss: 53288.512 , Train_acc: 0.985
